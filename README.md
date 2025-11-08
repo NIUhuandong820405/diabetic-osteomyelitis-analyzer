@@ -10,7 +10,7 @@
 
 ### 使用方法
 
-#### 方案一：零基础用户（推荐）
+#### 方案：零基础用户
 ```bash
 # 1. 运行简化版（无需安装，直接使用）
 python main_analysis_simple.py
@@ -19,4 +19,5 @@ python main_analysis_simple.py
 python demo_usage.py
 
 # 3. 分析您自己的病例
+
 python interactive_analysis.py
